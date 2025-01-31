@@ -1,4 +1,4 @@
-# eCommerce-follow-along
+# ECommerce-follow-along
 ### Milestone 1
 ### *Project Overview: E-Commerce Application (MERN Stack)*
 
